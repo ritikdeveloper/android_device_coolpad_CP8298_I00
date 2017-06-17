@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "samgrande/android_kernel_coolpad_CP8298_I00",
+    "repository": "ritikdeveloper/android_kernel_coolpad_CP8298_I00",
     "target_path": "kernel/coolpad/CP8298_I00",
     "branch": "master"
   }
